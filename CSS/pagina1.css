@@ -1,0 +1,63 @@
+body {
+  background-color: orangered;
+}
+table,
+th,
+td {
+  border: 1px solid rgb(2, 53, 2);
+}
+h1 {
+  color: rgb(2, 53, 2);
+}
+h3 {
+  color: rgb(2, 53, 2);
+}
+.parrafo1 {
+  text-align: center;
+  font-size: 20px;
+}
+.uno {
+  background-color: green;
+  border: 2px solid black;
+  /*padding: 20px 10px;*/
+  margin: 30px 30px 60px 30%;
+  height: auto;
+  width: 500px;
+}
+.color-azul {
+  color: blue;
+  font-style: italic;
+}
+.parrafo2 {
+  color: white;
+  font-style: italic;
+  text-align: left;
+}
+.dos {
+  background-color: brown;
+  border: 5px solid green;
+}
+.rojito {
+  color: red;
+  font-style: normal;
+}
+.parrafo3 {
+  color: white;
+  text-align: right;
+}
+.parrafo4 {
+  color: white;
+  font-style: italic;
+  text-align: justify;
+}
+.tres {
+  background-color: lawngreen;
+  border: 2px solid black;
+  margin: 30px 30px 60px 20%;
+  height: auto;
+  width: 320;
+}
+.lista {
+  color: royalblue;
+  font-style: initial;
+}
