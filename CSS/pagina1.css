@@ -31,11 +31,11 @@ h3 {
 .parrafo2 {
   color: white;
   font-style: italic;
-  text-align: left;
 }
 .dos {
   background-color: brown;
   border: 5px solid green;
+  margin: 0px 0px 10px;
 }
 .rojito {
   color: red;
@@ -43,12 +43,10 @@ h3 {
 }
 .parrafo3 {
   color: white;
-  text-align: right;
 }
 .parrafo4 {
   color: white;
   font-style: italic;
-  text-align: justify;
 }
 .tres {
   background-color: lawngreen;
